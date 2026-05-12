@@ -1,0 +1,10 @@
+John Doe
+Software Engineer
+
+Experience:
+- 5 years in Python development
+- Built scalable APIs using FastAPI
+- Worked with AWS, Docker, Kubernetes
+
+Skills:
+Python, FastAPI, AWS, Docker, SQL, Git

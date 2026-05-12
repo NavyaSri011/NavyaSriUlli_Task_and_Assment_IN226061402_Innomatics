@@ -1,0 +1,9 @@
+Jane Smith
+Developer
+
+Experience:
+- 2 years web development
+- Built small projects using Python
+
+Skills:
+Python, HTML, CSS, Git
